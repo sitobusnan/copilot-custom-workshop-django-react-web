@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/teamsystemspa-copilot/custom-sitobusnan-database-layer:latest
+          tags: ghcr.io/teamsystemspa-copilot/custom-database-layer:1.0
