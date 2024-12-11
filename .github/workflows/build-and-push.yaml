@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/<REPLACE WITH YOUR ORG NAME>/docker-postgres-setup:latest
+          tags: ghcr.io/teamsystemspa-copilot/docker-sitobusnan-postgres-setup:latest
